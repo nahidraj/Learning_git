@@ -2,6 +2,7 @@
 
 console.log(2 + 2);
 console.log(2 + 2);
+console.log("Adding comment features");
 // console.log(2 - 2);
 // console.log(2 * 2);
 // console.log(2 / 2);
